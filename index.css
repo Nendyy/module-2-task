@@ -43,6 +43,10 @@ section{
     
 }
 
+section +p {
+    margin-top: 20px;
+}
+
 #section1{
     background-color: antiquewhite;
 }
