@@ -69,10 +69,11 @@ section{
     .green{
         width: 97%;
         position: relative;
+    }
 }
 
 @media screen and (max-width: 767px){
-    body {
+    body { 
         margin: 0 25px;
     }
     
